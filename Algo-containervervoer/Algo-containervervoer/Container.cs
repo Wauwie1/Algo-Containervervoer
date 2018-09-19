@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Algo_containervervoer
 {
-    class Container
+    public class Container
     {
         public int weight { get; private set; }
         public ContainerType type { get; private set; }
